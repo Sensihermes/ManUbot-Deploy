@@ -42,4 +42,4 @@ Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan 
 *   [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
 
 ## License
-Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
+Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Sensi☆-Userbot/blob/Sensi☆-Userbot/LICENSE) - Version 1.d, February 2020
